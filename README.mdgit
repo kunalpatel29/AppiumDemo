@@ -1,1 +1,0 @@
-"# AppiumDemo"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/kunalpatel29/AppiumDemo.gitgit push -u origin main
