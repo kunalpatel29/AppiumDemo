@@ -27,6 +27,7 @@ public class Base {
 //			File fs = new File(f,"ApiDemos-debug.apk");
 			File prac = new File(f,"prac.apk");
 			DesiredCapabilities cap = new DesiredCapabilities();
+			//DesiredCapabilities cp = DesiredCapabilities.android();
 		
 		cap.setCapability(MobileCapabilityType.DEVICE_NAME, "KunalAnd");
 		cap.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
